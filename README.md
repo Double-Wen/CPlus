@@ -3,3 +3,6 @@
 Record my algorithm from zero.
 
 ![hello png in md](./image/hello.png)
+
+email: tcliuwenwen@gmail.com
+
