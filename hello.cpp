@@ -8,8 +8,27 @@
  */
 #include <iostream>
 using namespace std;
-int main(int argc, char *argv[])
+struct abc
 {
-    cout << "Hello World" << endl;
+    int aa;
+    int bb;
+    int cc;
+};
+int main()
+{
+    int a;
+    int b;
+    struct abc ccc;
+    cin >> ccc.aa;
+    cin >> ccc.bb;
+    cout << ccc.aa << endl;
+    int c;
+    cin >> a;
+    cin >> b;
+    cout << a << endl;
+    cout << a << endl;
+    cout << a << endl;
+    cout << b << endl;
     return 0;
 }
+
